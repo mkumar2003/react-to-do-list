@@ -1,0 +1,59 @@
+.todo-app {
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.task-input input {
+  width: 200px;
+  padding: 5px;
+}
+
+.task-input button {
+  margin-left: 5px;
+  padding: 5px 10px;
+}
+
+.error {
+  color: red;
+  margin-top: 5px;
+}
+
+.task-controls {
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+  display: flex;
+}
+
+.task-controls label {
+  flex-direction: column;
+  display: flex;
+}
+
+.task-section {
+  margin-top: 20px;
+}
+
+.task-section h2 {
+  text-align: left;
+}
+
+.task-list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.task-list li {
+  border-bottom: 1px solid #ccc;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  display: flex;
+}
+
+.task-list li.completed span {
+  color: green;
+  text-decoration: line-through;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
