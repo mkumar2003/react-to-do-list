@@ -65,4 +65,3 @@ This is a simple Todo List application built with React. It allows users to add,
   - `App.css`: Styles for the application.
   - `index.js`: Entry point of the application.
 
-## created by Manish Kumar
